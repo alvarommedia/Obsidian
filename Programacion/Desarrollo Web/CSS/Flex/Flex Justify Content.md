@@ -15,3 +15,9 @@ Los tipos de alineaciones que tiene **Justify Content**:
 - *space-between*: Distribuye los ítems dejando espacio entre ellos.![[Shot - 000014.png]]
 - *space-around*: Distribuye los ítems dejando espacio alrededor de ellos.![[Shot - 000015.png]]
 - *space-evenly*: Distribuye como space-around, pero con un espacio exactamente igual alrededor de ellos.![[Shot - 000016.png]]
+```css
+.contenedor {
+	display: flex;
+	justify-content: start;
+}
+```
