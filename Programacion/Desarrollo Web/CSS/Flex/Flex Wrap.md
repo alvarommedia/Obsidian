@@ -4,6 +4,7 @@ tags:
   - Flex
 aliases:
   - flex-wrap
+  - flex wrap
 ---
 **Flex Wrap** es una propiedad de [[FlexBox|flex]] que determina el comportamiento del contenido hijo en el caso de desbordamiento.
 
