@@ -10,8 +10,8 @@ La propiedad **Flex Direction** establece la dirección. Que tomaran los hijos d
 Los tipos de dirección que hay son:
  - *row*: Coloca los elementos en forma de fila.
  - *row-reverse*: Coloca los elementos en forma de fila invertida.
- - *colum*: Coloca los elementos en forma de columna
- - *colum-reverse*: Coloca los elementos en forma de columna invertida.
+ - *column*: Coloca los elementos en forma de columna
+ - *column-reverse*: Coloca los elementos en forma de columna invertida.
  - *flex*: Coloca los elementos automaticamente en función del resto de propiedades.
 
 Por defecto con [[flex]] el contenedor tiene una dirección *Row*.
