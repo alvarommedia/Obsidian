@@ -2,6 +2,8 @@
 tags:
   - CSS
   - Flex
+aliases:
+  - column gap
 ---
 La propiedad **Flex Column Gap** establece el espacio que tendrán los elementos hijo de un contenedor [[FlexBox|flex]] entre sí.
 

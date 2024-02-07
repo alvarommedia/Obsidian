@@ -2,6 +2,8 @@
 tags:
   - CSS
   - Flex
+aliases:
+  - row gap
 ---
 La propiedad **Flex Row Gap** establece el espacio que tendrán los elementos hijo de un contenedor [[FlexBox|flex]] entre sí.
 
