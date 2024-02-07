@@ -1,6 +1,5 @@
 ---
 tags:
   - MOC
-  - HTML
-aliases:
+  - CSS
 ---
