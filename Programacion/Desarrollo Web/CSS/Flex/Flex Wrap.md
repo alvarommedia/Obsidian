@@ -10,6 +10,7 @@ aliases:
 
 Los tipos de wrap que hay son:
 - *nowrap*: Evita que el contenido que tenga desbordamiento salte a una linea inferior.
+ ![[Shot - 000021.png]]
 - *wrap*: Fuerza que el contenido que tenga desbordamiento salte a una linea inferior.
 - *wrap-reverse*: Fuerza que el contenido que tenga desbordamiento salte a una linea inferior de manera inversa.
 

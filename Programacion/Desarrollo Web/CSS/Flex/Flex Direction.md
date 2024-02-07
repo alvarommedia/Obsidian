@@ -10,10 +10,10 @@ La propiedad **Flex Direction** establece la dirección del eje principal. Que t
 ![Flex CSS: ¿Cómo funciona?](https://lenguajecss.com/css/maquetacion-y-colocacion/flex/flex-como-funciona.png)
 
 Los tipos de dirección que hay son:
- - *row*: Coloca los elementos en forma de fila.
- - *row-reverse*: Coloca los elementos en forma de fila invertida.
- - *column*: Coloca los elementos en forma de columna
- - *column-reverse*: Coloca los elementos en forma de columna invertida.
+ - *row*: Coloca los elementos en forma de fila.![[Shot - 000017.png]]
+ - *row-reverse*: Coloca los elementos en forma de fila invertida.![[Shot - 000018.png]]
+ - *column*: Coloca los elementos en forma de columna![[Shot - 000019.png]]
+ - *column-reverse*: Coloca los elementos en forma de columna invertida.![[Shot - 000020.png]]
  - *flex*: Coloca los elementos automaticamente en función del resto de propiedades.
 
 Por defecto con [[FlexBox|flex]] el contenedor tiene una dirección *Row*.
