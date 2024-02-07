@@ -3,4 +3,6 @@ tags:
   - CSS
   - Flex
 ---
-La propiedad **Flex Row Gap** establece el espacio que tendran los elementos entre si 
+La propiedad **Flex Row Gap** establece el espacio que tendrán los elementos hijo de un contenedor [[FlexBox|flex]] entre sí.
+
+Esta propiedad tan solo funciona en aquellos contenedores que tengan una [[Flex Direction|flex direction]] de *column*
