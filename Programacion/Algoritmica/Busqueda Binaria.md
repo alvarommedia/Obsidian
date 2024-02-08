@@ -11,6 +11,7 @@ En la mitad que se encuentre el valor se vuelve a segmentar en dos y se realiza 
 Una vez encontrado se devuelve el indice.
 # [[JavaScript]]
 ```javascript
+//Funcion Iterativa
 function busquedaBinaria(array, valor){
 	 let left = 0
 	 let rigth = array.length
@@ -24,5 +25,18 @@ function busquedaBinaria(array, valor){
 			 rigth = middle - 1
 		 }
 	 }
+}
+```
+```javascript
+//Funcion Recursiva
+function busquedaBinaria(array, valor){
+	 if(array.length <= 0) return -1
+	 const left = 0
+	 const rigth = array.length
+	 const middle = Math.floor((left + rigth)/2)
+	 
+	 if(array.length <= 0) return -1
+	 if(array[middle] === valor) return middle
+	 
 }
 ```
