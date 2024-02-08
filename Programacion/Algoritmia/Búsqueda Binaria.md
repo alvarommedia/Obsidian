@@ -1,7 +1,6 @@
 ---
 tags:
   - Algortimica
-  - JavaScript
 ---
 Permite realizar una búsqueda dentro de un array, de manera optimizada, sin tener que recorrer todos los indices de ese array.
 
