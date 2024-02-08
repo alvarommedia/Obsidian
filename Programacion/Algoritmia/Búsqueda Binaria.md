@@ -13,11 +13,16 @@ Una vez encontrado se devuelve el indice.
 ```javascript
 function busquedaBinaria(array, valor){
 	 let left = 0
-	 const rigth = array.length
-	 const middle = Math.floor((left + rigth)/2)
+	 let rigth = array.length
 
-	 if(array[middle] = valor) return valor
-	 if (array[middle] < valor){
+	 while (left <= rigth){
+		 const middle = Math.floor((left + rigth)/2)	 
+		 if (array[middle] === valor) middle
+		 if (array[middle] < valor){
+			 left = middle + 1
+		 } else {
+			 rigth = middle - 1
+		 }
 	 }
 }
 ```
