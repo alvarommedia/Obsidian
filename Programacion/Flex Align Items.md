@@ -5,10 +5,11 @@ tags:
 aliases:
   - aling items
   - aling-items
+links: "[[CSS]]"
 ---
-La propiedad **Aling Items** de [[FlexBox|flex]] permite alinear los elementos en el eje secundarios del contendor.
+La propiedad **Align Items** de [[FlexBox|flex]] permite alinear los elementos en el eje secundarios del contenedor.
 
-Los tipos de alineaciones que tiene **Aling Items**:
+Los tipos de alineaciones que tiene **Align Items**:
 - *start*: Agrupa los ítems al inicio del eje secundario.![[Shot - 000024.png]]
 - *end*: Agrupa los ítems al final del eje secundario.![[Shot - 000025.png]]
 - *center*: Agrupa los ítems al centro del eje secundario.![[Shot - 000026.png]]

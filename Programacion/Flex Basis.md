@@ -2,6 +2,7 @@
 tags:
   - CSS
   - Flex
+links: "[[CSS]]"
 ---
 Propiedad de [[FlexBox|flex]] que establece el tamaño base por defecto que tendrán los elementos, antes de aplicarle la distribución de espacio.
 

@@ -5,8 +5,9 @@ tags:
 aliases:
   - align content
   - align-content
+links: "[[CSS]]"
 ---
-**Align Content** es un caso particular de [[Flex Align Items|aling items]]. Nos servirá cuando estemos tratando con un contenedor flex *multilinea* creado mediante [[Flex Wrap|flex wrap]]. Nos permitirá alinear las lineas dentro del contenedor.
+**Align Content** de [[FlexBox|flex]] es un caso particular de [[Flex Align Items|aling items]]. Nos servirá cuando estemos tratando con un contenedor flex *multilinea* creado mediante [[Flex Wrap|flex wrap]]. Nos permitirá alinear las lineas dentro del contenedor.
 
 Los tipos de alineaciones que tiene **Align Content**:
 - *start*: Agrupa los ítems al inicio del eje principal.
