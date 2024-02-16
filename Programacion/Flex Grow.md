@@ -2,7 +2,7 @@
 tags:
   - CSS
   - Flex
-links: "[[CSS]]"
+links: []
 ---
 Propiedad de [[FlexBox|flex]] que establece si un hijo puede crecer para ajustarse al contenido. Esta propiedad se coloca en los elementos hijo de [[FlexBox|flex]].
 

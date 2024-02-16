@@ -5,7 +5,7 @@ tags:
 aliases:
   - justify content
   - justify-content
-links: "[[CSS]]"
+links: []
 ---
 La propiedad **Justify Content** de [[FlexBox|flex]] permite alinear los elementos en el eje principal del contendor.
 

@@ -2,7 +2,7 @@
 tags:
   - CSS
   - Flex
-links: "[[CSS]]"
+links: []
 ---
 La propiedad **Flex Shrink** de [[FlexBox|flex]] indica el factor de decrecimiento del cada elemento.
 

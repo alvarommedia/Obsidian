@@ -4,7 +4,7 @@ tags:
   - Flex
 aliases:
   - flex
-links: "[[CSS]]"
+links: []
 ---
 La propiedad **Flex** de [[FlexBox]] en una suma de las propiedades de flexibilidad indicadas en los elementos hijos: [[Flex Grow]], [[Flex Shrink]] y [[Flex Basis]].
 

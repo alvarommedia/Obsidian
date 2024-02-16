@@ -4,7 +4,6 @@ tags:
 aliases:
   - ::first-letter
 links:
-  - "[[CSS]]"
   - "[[Pseudo-Elementos]]"
 ---
 El pseudo-elemento **First-Letter** permite aplicar estilos a la primera letra de un texto.

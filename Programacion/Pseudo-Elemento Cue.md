@@ -4,7 +4,6 @@ tags:
 aliases:
   - ::cue
 links:
-  - "[[CSS]]"
   - "[[Pseudo-Elementos]]"
 ---
 El pseudo-elemento **cue** permite aplicar estilos a los subtítulos de un [[Video HTML|video]]

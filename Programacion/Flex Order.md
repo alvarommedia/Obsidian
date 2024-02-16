@@ -2,7 +2,7 @@
 tags:
   - CSS
   - Flex
-links: "[[CSS]]"
+links: []
 ---
 La propiedad **Flex Order** es otra de las pocas propiedades que se colocan en el hijo de un contenedor de tipo [[FlexBox|flex]]. La cual permite establecer el orden en el que aparecen los elementos en el contenedor.
 

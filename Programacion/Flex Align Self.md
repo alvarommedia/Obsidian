@@ -2,7 +2,7 @@
 tags:
   - CSS
   - Flex
-links: "[[CSS]]"
+links: []
 ---
 La propiedad **Align Self** de [[FlexBox|flex]] es igual que la propiedad [[Flex Align Items|aling items]] con la salvedad que hace efecto en un elemento hijo especifico, por lo que también se debe colocar en ese elemento.
 

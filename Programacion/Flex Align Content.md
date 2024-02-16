@@ -1,11 +1,11 @@
 ---
 tags:
-  - CSS
   - Flex
+  - CSS
 aliases:
   - align content
   - align-content
-links: "[[CSS]]"
+links: []
 ---
 **Align Content** de [[FlexBox|flex]] es un caso particular de [[Flex Align Items|aling items]]. Nos servirá cuando estemos tratando con un contenedor flex *multilinea* creado mediante [[Flex Wrap|flex wrap]]. Nos permitirá alinear las lineas dentro del contenedor.
 

@@ -2,7 +2,7 @@
 tags:
   - CSS
   - Flex
-links: "[[CSS]]"
+links: []
 ---
 **Flex Place Content** es una propiedad de [[FlexBox|flex]], la cual une las propiedades [[Flex Align Content]] y [[Flex Justify Content]].
 

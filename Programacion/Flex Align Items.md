@@ -5,7 +5,7 @@ tags:
 aliases:
   - aling items
   - aling-items
-links: "[[CSS]]"
+links: []
 ---
 La propiedad **Align Items** de [[FlexBox|flex]] permite alinear los elementos en el eje secundarios del contenedor.
 
