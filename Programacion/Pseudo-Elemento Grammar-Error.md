@@ -4,7 +4,7 @@ tags:
 aliases:
   - ::grammar-error
 links:
-  - "[[Pseudo-Elementos]]"
+  - "[[Pseudo-Elementos CSS]]"
 ---
 El pseudo-elemento **Grammar-Error** permite aplicar estilos a errores gramaticales en textos.
 ```css

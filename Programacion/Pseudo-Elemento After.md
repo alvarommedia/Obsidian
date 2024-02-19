@@ -4,7 +4,7 @@ tags:
 aliases:
   - ::after
 links:
-  - "[[Pseudo-Elementos]]"
+  - "[[Pseudo-Elementos CSS]]"
 ---
 El pseudo-elemento **after** permite añadir contenido visual a los elementos. El **after** se renderiza despues que el elemento.
 

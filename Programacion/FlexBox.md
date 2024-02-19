@@ -9,7 +9,7 @@ aliases:
 links: "[[CSS]]"
 ---
 **Flex** en una propiedad de [[CSS]] la cual indica como debe funcionar el contenedor con respecto a sus hijos.
-Se emplea en los contenedores, cambiando la propiedad [[display]].
+Se emplea en los contenedores, cambiando la propiedad [[Display CSS|display]].
 
 Los tipos de flex que hay son:
 - *flex*: Establece un contenedor que ocupa todo el ancho del padre.

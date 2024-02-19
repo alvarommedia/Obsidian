@@ -4,7 +4,7 @@ tags:
 aliases:
   - ::file-selector-button
 links:
-  - "[[Pseudo-Elementos]]"
+  - "[[Pseudo-Elementos CSS]]"
 ---
 El pseudo-elemento **file-selector-button** permite aplicar estilos al boton de un [[Input HTML|input]] de tipo file.
 ```css

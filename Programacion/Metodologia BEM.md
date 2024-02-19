@@ -6,7 +6,7 @@ aliases:
   - BEM
 links: "[[CSS]]"
 ---
-La metodologia **BEM** permite tener un [[CSS]] mas mantenible y reui.
+La metodologia **BEM** permite tener un mas mantenible y reui.
 
 **BEM** consiste en nombrar los [[Selectores CSS|selectores]] de [[Clase HTML|clase]] en función de su intencionalidad. 
 

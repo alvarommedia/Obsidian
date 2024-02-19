@@ -31,4 +31,4 @@ pnpm i stylelint
 ```
 
 # Configurar Stylelint
-Para configurar **Stylelint** en el proyecto debemos añadir el archivo `.stylelintrc.json` y dentro añadir los [[Plugins StyleLint|plugins]], [[Configuraciones Stylelint|configuraciones]] y reglas.
+Para configurar **Stylelint** en el proyecto debemos añadir el archivo `.stylelintrc.json` y dentro añadir los [[Plugins StyleLint|plugins]], [[Configuraciones Stylelint|configuraciones]] y [[Reglas Stylelint|reglas]].

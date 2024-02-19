@@ -2,9 +2,9 @@
 tags:
   - CSS
   - Selectores
-links: "[[CSS]]"
+links: []
 ---
-Los errores mas comunes a la hora de utilizar los [[Selectores CSS|selectores]] en [[CSS]] son:
+Los errores mas comunes a la hora de utilizar los [[Selectores CSS|selectores]] en son:
 # Utilizar [[Selectores CSS|Selectores]] Tag para etiquetas [[HTML 5]] poco utilizadas.
 Utilizar etiquetas que se utilizan poco en el [[HTML 5]] y darle estilos específicos a ese elemento.
 

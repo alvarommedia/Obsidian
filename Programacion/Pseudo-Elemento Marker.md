@@ -4,7 +4,7 @@ tags:
 aliases:
   - ::marker
 links:
-  - "[[Pseudo-Elementos]]"
+  - "[[Pseudo-Elementos CSS]]"
 ---
 El pseudo-elemento **marker** permite aplicar estilos a el decorador de un [[LI HTML|item de lista]].
 ```css

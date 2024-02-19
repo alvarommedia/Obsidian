@@ -2,7 +2,7 @@
 tags:
   - CSS
 aliases:
-  - pseudo-elementos
+  - display
 links:
   - "[[CSS]]"
 ---
