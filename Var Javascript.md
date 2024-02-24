@@ -2,7 +2,7 @@
 tags:
   - JavaScript
 aliases:
-  - Booleano, booleano
+  - var
 links:
-  - "[[JavaScript]]"
+  - "[[Variables Javascript]]"
 ---
