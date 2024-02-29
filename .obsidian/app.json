@@ -1,0 +1,8 @@
+{
+  "attachmentFolderPath": "Recursos/Media",
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Notas Nuevas",
+  "promptDelete": false
+}

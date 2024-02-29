@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "105839c104df9e7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "39cfa45fbf3cef39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6084e4d94937b1a9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "327e50640755a7fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistema Informático.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ffbc69ddd5c3172",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistema Operativo.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd0dcd2acaf9cc04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hardware.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b18cacbbd870608",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0dff76a4b1da2a58",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2fe5f720e0ccf55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81ba5a35e7114f2f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e64bd44dd3c1b4bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "gn",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.5
+  },
+  "right": {
+    "id": "53c472bd9c28c403",
+    "type": "split",
+    "children": [
+      {
+        "id": "c36fc24dd2618f5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "654aad1405ef0ca5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sistema Informático.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Abrir vista gráfica": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "privacy-glasses:Hide all": false,
+      "privacy-glasses:Reveal non-private": false,
+      "privacy-glasses:Reveal headlines only": false,
+      "privacy-glasses:Reveal all": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "cmdr:QuickAdd: Concepto": false
+    }
+  },
+  "active": "327e50640755a7fa",
+  "lastOpenFiles": [
+    "Sistema Informático.md",
+    "Sistema Operativo.md",
+    "Software.md",
+    "Hardware.md",
+    "Programa Informatico.md",
+    "Notas/Base de Numeración.md",
+    "Notas/Sistema de Numeración Decimal.md",
+    "Notas/Teorema Fundamental de la Numeracíon.md",
+    "Recursos/Media/Shot - 000091.png",
+    "Notas/Sistema de Numeración.md",
+    "Notas/Codificación.md",
+    "Notas/Código.md",
+    "Notas/Sistema de Comunicación.md",
+    "Notas/Canal.md",
+    "Sin título.md",
+    "Recursos/Platilllas/_Concepto.md",
+    "Notas/Receptor.md",
+    "Notas/Emisor.md",
+    "Recursos/Platilllas",
+    "Recursos/Media/Shot - 000089.png",
+    "Informatica/Linux/Comandos/Comandos de Directorio/Comandos de Directorio Linux.md",
+    "Recursos/Media",
+    "Informatica/Linux/Comandos/Comandos de Directorio/Comando CD.md",
+    "Informatica/Linux/Comandos/Comandos de Directorio/Comando PWD.md",
+    "Informatica/Linux/Comandos/Comandos de Directorio/Comando LS.md",
+    "Recursos/Media/Shot - 000090.png",
+    "Recursos/Shot - 000088.png",
+    "Informatica/Linux/Comandos/Comandos de Directorio",
+    "Comando man.md",
+    "Comando ls.md",
+    "Comandos.md 13-17-55-078.md",
+    "Comandos.md",
+    "Comando pwd.md",
+    "Informatica/Linux/Licencias/Licencias de Software Libre",
+    "Informatica/Linux/Licencias/Creative Commons",
+    "Informatica/Linux/Licencias",
+    "Informatica/Linux/Comandos/Comandos Basicos",
+    "Informatica/Linux/Comandos",
+    "Recursos/Shot - 000087.png",
+    "Recursos/Shot - 000086.png",
+    "Recursos/Shot - 000085.png",
+    "Recursos/Shot - 000084.png",
+    "Informatica/Linux/Shell",
+    "Informatica/Linux",
+    "Recursos/Shot - 000081.png",
+    "Recursos/Shot - 000080.png",
+    "Sin título.canvas",
+    "Programacion/Desarrollo Web/HTML/Untitled.canvas"
+  ]
+}
