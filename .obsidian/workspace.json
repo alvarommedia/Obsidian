@@ -4,71 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "39cfa45fbf3cef39",
+        "id": "c7571630b0182143",
         "type": "tabs",
         "children": [
           {
-            "id": "6084e4d94937b1a9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "327e50640755a7fa",
+            "id": "53b17ce2bea04d7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistema Informático.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ffbc69ddd5c3172",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistema Operativo.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd0dcd2acaf9cc04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hardware.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b18cacbbd870608",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software.md",
+                "file": "Hacking/Post Explotación/Tratamiento de la TTY.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gn",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistema Informático.md"
+                "file": "Hacking/Post Explotación/Tratamiento de la TTY.md"
               }
             }
           }
@@ -150,52 +102,52 @@
       "cmdr:QuickAdd: Concepto": false
     }
   },
-  "active": "327e50640755a7fa",
+  "active": "53b17ce2bea04d7b",
   "lastOpenFiles": [
-    "Sistema Informático.md",
-    "Sistema Operativo.md",
-    "Software.md",
-    "Hardware.md",
-    "Programa Informatico.md",
+    "Hacking/Explotación/Explotación Web/Explotación File Upload.md",
+    "Hacking/Post Explotación/Tratamiento de la TTY.md",
+    "Hacking/Post Explotación",
+    "Hacking/Explotación/Explotación Web",
+    "Hacking/Enumeracion/Enumeración Web/Fuzzing Web.md",
+    "Hacking/Enumeracion/Enumeración DNS.md",
+    "Hacking/Explotación/Fuerza Bruta/Fuerza Bruta Base de Datos KeePass.md",
+    "Hacking/Enumeracion/Enumeración Web",
+    "Hacking/Explotación/Fuerza Bruta/Fuerza Bruta Archivo ZIP.md",
+    "Hacking/Explotación/Fuerza Bruta/Fuerza Bruta Bases de Datos MYSQL.md",
+    "Hacking/Explotación/Fuerza Bruta/Fuerza bruta a SSH.md",
+    "Hacking/Explotación/Fuerza Bruta/Fuerza Bruta FTP.md",
+    "Hacking/Explotación/Fuerza Bruta/Fuerza Bruta Panel Login Web.md",
+    "Hacking/Explotación/Explotación Linux/vsftpd 2.3.4 (CVE-2011-2523).md",
+    "Hacking/Explotación/Fuerza Bruta",
+    "Hacking/Explotación/Explotacion Windows/Eternablue (CVE-2017-0144).md",
+    "Hacking/Explotación/Explotación Linux",
+    "Hacking/Enumeracion/Enumeración de Host.md",
+    "Hacking/Explotación/Explotacion Windows",
+    "Hacking/Explotación",
+    "Hacking/Enumeracion/Enumeración de Red.md",
+    "Hacking/Enumeracion/Enumeración de red/ARP-SCAN.md",
+    "Hacking/Enumeracion/Enumeración de red",
+    "Hacking/Enumeracion",
+    "OSINT.md",
     "Notas/Base de Numeración.md",
-    "Notas/Sistema de Numeración Decimal.md",
-    "Notas/Teorema Fundamental de la Numeracíon.md",
+    "Notas/Red Celular.md",
+    "Notas/Base Transceiver Station.md",
+    "Notas/Celdas Movil.md",
+    "Notas/Cell Global Indentification.md",
+    "Red.md",
+    "Notas/Software.md",
+    "Notas/Sistema Informático.md",
+    "Notas/Sistema Operativo.md",
+    "Notas/Hardware.md",
     "Recursos/Media/Shot - 000091.png",
-    "Notas/Sistema de Numeración.md",
-    "Notas/Codificación.md",
-    "Notas/Código.md",
-    "Notas/Sistema de Comunicación.md",
-    "Notas/Canal.md",
-    "Sin título.md",
-    "Recursos/Platilllas/_Concepto.md",
-    "Notas/Receptor.md",
-    "Notas/Emisor.md",
     "Recursos/Platilllas",
     "Recursos/Media/Shot - 000089.png",
-    "Informatica/Linux/Comandos/Comandos de Directorio/Comandos de Directorio Linux.md",
-    "Recursos/Media",
-    "Informatica/Linux/Comandos/Comandos de Directorio/Comando CD.md",
-    "Informatica/Linux/Comandos/Comandos de Directorio/Comando PWD.md",
-    "Informatica/Linux/Comandos/Comandos de Directorio/Comando LS.md",
     "Recursos/Media/Shot - 000090.png",
     "Recursos/Shot - 000088.png",
-    "Informatica/Linux/Comandos/Comandos de Directorio",
-    "Comando man.md",
-    "Comando ls.md",
-    "Comandos.md 13-17-55-078.md",
-    "Comandos.md",
-    "Comando pwd.md",
-    "Informatica/Linux/Licencias/Licencias de Software Libre",
-    "Informatica/Linux/Licencias/Creative Commons",
-    "Informatica/Linux/Licencias",
-    "Informatica/Linux/Comandos/Comandos Basicos",
-    "Informatica/Linux/Comandos",
     "Recursos/Shot - 000087.png",
     "Recursos/Shot - 000086.png",
     "Recursos/Shot - 000085.png",
     "Recursos/Shot - 000084.png",
-    "Informatica/Linux/Shell",
-    "Informatica/Linux",
     "Recursos/Shot - 000081.png",
     "Recursos/Shot - 000080.png",
     "Sin título.canvas",
